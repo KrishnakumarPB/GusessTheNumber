@@ -1,0 +1,31 @@
+*
+{
+margin: 0px;
+padding: 0px;
+}
+body
+{
+margin: 1rem;
+}
+.container-fluid
+{
+align-content: center;
+text-align: center;
+}
+.buttons
+{
+    padding: 0rem 1rem;
+}
+.secretnumber
+{
+    background-color: black;
+    width: 5rem;
+    height: 5rem;
+    margin-left: auto;
+    margin-right: auto
+}
+.left
+{
+    text-align: end;
+    margin-right: 15rem;
+}
